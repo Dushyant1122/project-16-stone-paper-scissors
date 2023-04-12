@@ -1,3 +1,4 @@
+
 :root{
     --primary-color: #7895B2;
     --dark-color: #400D51;
@@ -11,6 +12,10 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+}
+
+.divv{
+    height: 83.4vh;
 }
 
 body{
@@ -136,6 +141,3 @@ body{
     }
 }
 
-.divv{
-    height: 83.5vh;
-}
